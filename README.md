@@ -21,7 +21,7 @@ HoloLensで画像キャプチャを取得し、Custom Visionを呼び出すこ�
 1.本PJをクローンし、Azure Custom Vision APIのimage fileのキーを  
  GetCustomVisionInfo.cs の visionAPIKeyに設定してください。  
 
-2. 1と同じように、visionURLにCustom Visionのimage fileのURLを設定してください。
+2.上記1と同じように、visionURLにCustom Visionのimage fileのURLを設定してください。
 
 3.エアタップで画像取得～Custom Visionの呼び出しを行います。  
 
