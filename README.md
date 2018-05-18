@@ -25,7 +25,7 @@ HoloLensで画像キャプチャを取得し、Custom Visionを呼び出すこ�
 
 3.エアタップで画像取得～Custom Visionの呼び出しを行います。  
 
-# 注意点
+## 注意点
 
 1.AzureおよびCustom Vision 自体の操作、設定に関しては本PJ内では説明致しません。\
   Custom Visionについては下記の記事も参考になります。\
@@ -34,5 +34,5 @@ HoloLensで画像キャプチャを取得し、Custom Visionを呼び出すこ�
 
 2.UWP Capability SettingsのWebcam,Internet Clientは必須です
 
-# 問い合わせ
+## 問い合わせ
 twitter [@morio36](https://twitter.com/morio36)
