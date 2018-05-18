@@ -30,4 +30,4 @@ HoloLensで画像キャプチャを取得し、Custom Visionを呼び出すこ�
 1.AzureおよびCustom Vision 自体の操作、設定に関しては本PJ内では説明致しません。
   Custom Visionについては下記の記事も参考になります。  
   情報は2017年のものなので古いですが、Custom Visionの設定周りはほぼ変わりませんでした（2018年5月時点）。
- ![HoloLensで始めるCognitive Services（Custom Vision Services編）](https://qiita.com/morio36/items/42ee34a1c97929d44ca2)
+ [HoloLensで始めるCognitive Services（Custom Vision Services編）](https://qiita.com/morio36/items/42ee34a1c97929d44ca2)
