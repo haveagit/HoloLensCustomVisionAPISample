@@ -1,33 +1,33 @@
 # HoloLensCustomVisionSample
 
-de:code 2018 AC62uŠÈ’PIIHoloLens‚Ån‚ß‚éCognitive Services`de:code 2018“Á•Êƒo[ƒWƒ‡ƒ“`v‚Ì  
-Custom Vision—pƒTƒ“ƒvƒ‹ƒR[ƒh‚Å‚·B  
-HoloLens‚Å‰æ‘œƒLƒƒƒvƒ`ƒƒ‚ğæ“¾‚µACustom Vision‚ğŒÄ‚Ño‚·‚±‚Æ‚Å\
-‘ÎÛ•¨‚ğ•ª—Ş•ª‚¯‚µ‚Ä•\¦A‰¹ºo—Í‚µ‚Ü‚·B
+de:code 2018 AC62ã€Œç°¡å˜ï¼ï¼HoloLensã§å§‹ã‚ã‚‹Cognitive Servicesï½de:code 2018ç‰¹åˆ¥ãƒãƒ¼ã‚¸ãƒ§ãƒ³ï½ã€ã®  
+Custom Visionç”¨ã‚µãƒ³ãƒ—ãƒ«ã‚³ãƒ¼ãƒ‰ã§ã™ã€‚  
+HoloLensã§ç”»åƒã‚­ãƒ£ãƒ—ãƒãƒ£ã‚’å–å¾—ã—ã€Custom Visionã‚’å‘¼ã³å‡ºã™ã“ã¨ã§\
+å¯¾è±¡ç‰©ã‚’åˆ†é¡åˆ†ã‘ã—ã¦è¡¨ç¤ºã€éŸ³å£°å‡ºåŠ›ã—ã¾ã™ã€‚
 
-![image](https://github.com/haveagit/HoloLensCustomVisionAPISample/tree/master/Assets/Image/cat.jpg)
+![image](https://github.com/haveagit/HoloLensCustomVisionAPISample/blob/master/Assets/image/cat.jpg)
 
-M—Š“x‚ª50%i¦j‚ğØ‚éê‡‚Íu”»’è•s”\v‚Æ‚µ‚Ü‚·‚Ì‚ÅA
-‚»‚Ìê‡‚ÍB‰e‚µ‚È‚¨‚µ‚Ä‚­‚¾‚³‚¢B
-¦è‡’l‚ÍƒvƒƒOƒ‰ƒ€“à‚Å•ÏX‰Â”\
+ä¿¡é ¼åº¦ãŒ50%ï¼ˆâ€»ï¼‰ã‚’åˆ‡ã‚‹å ´åˆã¯ã€Œåˆ¤å®šä¸èƒ½ã€ã¨ã—ã¾ã™ã®ã§ã€
+ãã®å ´åˆã¯æ’®å½±ã—ãªãŠã—ã¦ãã ã•ã„ã€‚
+â€»é–¾å€¤ã¯ãƒ—ãƒ­ã‚°ãƒ©ãƒ å†…ã§å¤‰æ›´å¯èƒ½
 
-## ƒo[ƒWƒ‡ƒ“î•ñ
- UnityF2017.1.2p3  
- MRToolkitFHoloToolkit-Unity-v1.2017.1.2  
- VisualStudioF15.5.4  
+## ãƒãƒ¼ã‚¸ãƒ§ãƒ³æƒ…å ±
+ Unityï¼š2017.1.2p3  
+ MRToolkitï¼šHoloToolkit-Unity-v1.2017.1.2  
+ VisualStudioï¼š15.5.4  
 
-## g‚¢•û
+## ä½¿ã„æ–¹
 
-1.–{PJ‚ğƒNƒ[ƒ“‚µAAzure Custom Vision API‚Ìimage file‚ÌƒL[‚ğ  
- GetCustomVisionInfo.cs ‚Ì visionAPIKey‚Éİ’è‚µ‚Ä‚­‚¾‚³‚¢B  
+1.æœ¬PJã‚’ã‚¯ãƒ­ãƒ¼ãƒ³ã—ã€Azure Custom Vision APIã®image fileã®ã‚­ãƒ¼ã‚’  
+ GetCustomVisionInfo.cs ã® visionAPIKeyã«è¨­å®šã—ã¦ãã ã•ã„ã€‚  
 
-2. 1‚Æ“¯‚¶‚æ‚¤‚ÉAvisionURL‚ÉCustom Vision‚Ìimage file‚ÌURL‚ğİ’è‚µ‚Ä‚­‚¾‚³‚¢B
+2. 1ã¨åŒã˜ã‚ˆã†ã«ã€visionURLã«Custom Visionã®image fileã®URLã‚’è¨­å®šã—ã¦ãã ã•ã„ã€‚
 
-3.ƒGƒAƒ^ƒbƒv‚Å‰æ‘œæ“¾`Custom Vision‚ÌŒÄ‚Ño‚µ‚ğs‚¢‚Ü‚·B  
+3.ã‚¨ã‚¢ã‚¿ãƒƒãƒ—ã§ç”»åƒå–å¾—ï½Custom Visionã®å‘¼ã³å‡ºã—ã‚’è¡Œã„ã¾ã™ã€‚  
 
-# ’ˆÓ“_
+# æ³¨æ„ç‚¹
 
-1.Azure‚¨‚æ‚ÑCustom Vision ©‘Ì‚Ì‘€ìAİ’è‚ÉŠÖ‚µ‚Ä‚Í–{PJ“à‚Å‚Íà–¾’v‚µ‚Ü‚¹‚ñB
-  Custom Vision‚É‚Â‚¢‚Ä‚Í‰º‹L‚Ì‹L–‚àQl‚É‚È‚è‚Ü‚·B  
-  î•ñ‚Í2017”N‚Ì‚à‚Ì‚È‚Ì‚ÅŒÃ‚¢‚Å‚·‚ªACustom Vision‚Ìİ’èü‚è‚Í‚Ù‚Ú•Ï‚í‚è‚Ü‚¹‚ñ‚Å‚µ‚½i2018”N5Œ“_jB
- ![HoloLens‚Ån‚ß‚éCognitive ServicesiCustom Vision Services•Òj](https://qiita.com/morio36/items/42ee34a1c97929d44ca2)
+1.AzureãŠã‚ˆã³Custom Vision è‡ªä½“ã®æ“ä½œã€è¨­å®šã«é–¢ã—ã¦ã¯æœ¬PJå†…ã§ã¯èª¬æ˜è‡´ã—ã¾ã›ã‚“ã€‚
+  Custom Visionã«ã¤ã„ã¦ã¯ä¸‹è¨˜ã®è¨˜äº‹ã‚‚å‚è€ƒã«ãªã‚Šã¾ã™ã€‚  
+  æƒ…å ±ã¯2017å¹´ã®ã‚‚ã®ãªã®ã§å¤ã„ã§ã™ãŒã€Custom Visionã®è¨­å®šå‘¨ã‚Šã¯ã»ã¼å¤‰ã‚ã‚Šã¾ã›ã‚“ã§ã—ãŸï¼ˆ2018å¹´5æœˆæ™‚ç‚¹ï¼‰ã€‚
+ ![HoloLensã§å§‹ã‚ã‚‹Cognitive Servicesï¼ˆCustom Vision Servicesç·¨ï¼‰](https://qiita.com/morio36/items/42ee34a1c97929d44ca2)
