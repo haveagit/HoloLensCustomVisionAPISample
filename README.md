@@ -7,8 +7,8 @@ HoloLensで画像キャプチャを取得し、Custom Visionを呼び出すこ�
 
 ![image](https://github.com/haveagit/HoloLensCustomVisionAPISample/blob/master/Assets/image/cat.jpg)
 
-信頼度が50%（※）を切る場合は「判定不能」としますので、
-その場合は撮影しなおしてください。
+信頼度が50%（※）を切る場合は「判定不能」としますので、\
+その場合は撮影しなおしてください。\
 ※閾値はプログラム内で変更可能
 
 ## バージョン情報
