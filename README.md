@@ -33,3 +33,6 @@ HoloLensで画像キャプチャを取得し、Custom Visionを呼び出すこ�
  [HoloLensで始めるCognitive Services（Custom Vision Services編）](https://qiita.com/morio36/items/42ee34a1c97929d44ca2)
 
 2.UWP Capability SettingsのWebcam,Internet Clientは必須です
+
+# 問い合わせ
+twitter [@morio36](https://twitter.com/morio36)
