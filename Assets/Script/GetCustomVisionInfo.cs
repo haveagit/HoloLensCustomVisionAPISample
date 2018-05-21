@@ -101,7 +101,7 @@ public class GetCustomVisionInfo : MonoBehaviour, IInputClickHandler
     }
 
     /*
-     * 取得した画像をCustom Vision APIに送信し、タグ、キャプションを取得する
+     * 取得した画像をCustom Vision APIに送信し、タグと確率を取得する
      */
     private IEnumerator<object> PostToCustomVisionAPI(byte[] imageData)
     {
@@ -128,7 +128,6 @@ public class GetCustomVisionInfo : MonoBehaviour, IInputClickHandler
 
             if (tmpProbability < obj.probability)
             {
-                str = obj.probability.ToString("P") + "の確率で" + obj.tagName + "です";
                 str = "It's a " + obj.tagName + "! The Probability is " + obj.probability.ToString("P");
                 tmpProbability = obj.probability;
             }
